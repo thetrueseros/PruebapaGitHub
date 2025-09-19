@@ -16,5 +16,15 @@ namespace PruebapaGitHub
         {
             InitializeComponent();
         }
+
+        private void btnHiCro_Click(object sender, EventArgs e)
+        {
+            Program.DarConsejo();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
