@@ -58,7 +58,7 @@ namespace PruebapaGitHub
                         MessageBox.Show("La paciencia es una virtud. Aprenda a esperar y las cosas llegarán en su debido momento.");
                         break;
                     default:
-                        MessageBox.Show("Vaya hágase un chance. Éste mensaje TIENE 0% de probabilidad de salir.");
+                        MessageBox.Show("Vaya haga un chance. Éste mensaje TIENE 0% de probabilidad de salir.");
                         break;
                 }
                 return;
